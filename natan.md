@@ -1,13 +1,2 @@
-# Hello, I'm Nat4n0hj
-### I'm a programming student in constant **learning**.
-
-## These are the five basic Linux commands.
-
-| Name | Description |
-| ---- | ----------- |
-| pwd | print current working directory |
-| cd | change current directory |
-| ls | list directoy content |
-| mkdir | make directoy |
-| mv | move |
+Git se utiliza para guardar los cambios realizados en el código fuente de un proyecto (similar al historial de versiones de Google Docs o los puntos de guardados de un videojuego), permitiendo que varias personas trabajen juntas en el mismo proyecto de manera colaborativa.
 
